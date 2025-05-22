@@ -15,7 +15,9 @@ Bienvenue sur **Blinkers**, une plateforme web immersive conçue pour dynamiser 
 
 ## 🖼️ Aperçu
 
-![Blinkers Screenshot](./public/img/blinkerslogo.png)
+
+![blinkerslogo](https://github.com/user-attachments/assets/2573d665-1c6d-4d3f-8953-4184388487a1)
+
 
 ---
 
